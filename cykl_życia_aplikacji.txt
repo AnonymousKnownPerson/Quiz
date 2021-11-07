@@ -1,0 +1,37 @@
+Po pierwszym uruchomieniu aplikacji:
+
+2021-11-07 19:42:04.504 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onCreate
+2021-11-07 19:42:04.622 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStart
+2021-11-07 19:42:04.624 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onResume
+
+Po wciśnięciu przycisku Cofnij:
+
+2021-11-07 19:48:18.492 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onPause
+2021-11-07 19:48:18.888 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStop
+2021-11-07 19:48:18.891 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onDestroy
+
+Po ponownym uruchomieniu aplikacji:
+
+2021-11-07 19:45:36.852 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onCreate
+2021-11-07 19:45:36.892 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStart
+2021-11-07 19:45:36.893 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onResume
+
+Po wciśnięciu przycisku ekranu głównego Home:
+
+2021-11-07 19:45:56.591 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onPause
+2021-11-07 19:45:57.003 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+
+2021-11-07 19:50:57.922 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStart
+2021-11-07 19:50:57.924 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onResume
+
+Po obróceniu ekranu:
+
+2021-11-07 20:03:41.271 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onPause
+2021-11-07 20:03:41.272 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStop
+2021-11-07 20:03:41.273 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onDestroy
+2021-11-07 20:03:41.297 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onCreate
+2021-11-07 20:03:41.331 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onStart
+2021-11-07 20:03:41.332 16073-16073/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia - onResume
+
