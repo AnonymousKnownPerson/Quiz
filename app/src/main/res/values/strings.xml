@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_zdalne">Studenci niczego się nie nauczyli podczas zdalnych</string>
+    <string name="q_kbiblioteczna">90% studentów dalej nie ma wyrobionej karty bibliotecznej</string>
+    <string name="q_frontend">Front-end nie jest do końca przyjemny do uczenia</string>
+    <string name="q_backend">Back-end jest bardzo przyjemny do uczenia</string>
+    <string name="q_js">Java jest tak samo łatwa do uczenia jak JavaScript</string>
+
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+
+
+</resources>
