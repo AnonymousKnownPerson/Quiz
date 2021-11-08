@@ -13,5 +13,8 @@
     <string name="incorrect_answer">Niepoprawna odpowiedź</string>
     <string name="correct_answer">Poprawna odpowiedź</string>
 
+    <string name="answer_was_shown">Cheating Detected! Detention for you!</string>
+
+
 
 </resources>
